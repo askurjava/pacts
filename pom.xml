@@ -13,7 +13,7 @@
 	<artifactId>pact-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pact-test</name>
-	<description>Demo project for Spring Boot Pact Test</description>
+	<description>Pact Test</description>
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2020.0.2</spring-cloud.version>
